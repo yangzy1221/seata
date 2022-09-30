@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bb30652-364d-4ff7-812c-2498125510a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../enviroment/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\enviroment\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FA9H38OKQ2BrNA5CFkOhBoj2IQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mes" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\seata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.seatabusiness.controller.vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataOrderApplication">
+    <configuration name="SeataBusinessApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seatabusiness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.seatabusiness" />
+      <option name="MAIN_CLASS_NAME" value="com.example.seatabusiness.SeataBusinessApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataBusinessApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seatabusiness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.seatabusiness" />
+      <option name="MAIN_CLASS_NAME" value="com.example.seatabusiness.SeataBusinessApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seatastorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.seatastorage" />
+      <option name="MAIN_CLASS_NAME" value="com.example.seatastorage.SeataStorageApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seata.SeataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataBusinessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seatabusiness.SeataBusinessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seataorder.SeataOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seatastorage.SeataStorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeataBusinessApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SeataBusinessApplicationTests" />
+        <item itemvalue="JUnit.SeataStorageApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb30652-364d-4ff7-812c-2498125510a8" name="Changes" comment="" />
+      <created>1663923929493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663923929493</updated>
+      <workItem from="1663923930743" duration="267000" />
+      <workItem from="1663924923243" duration="1266000" />
+      <workItem from="1664416078402" duration="10357000" />
+      <workItem from="1664432573750" duration="12988000" />
+      <workItem from="1664502282292" duration="10685000" />
+      <workItem from="1664519479222" duration="6552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
